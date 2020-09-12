@@ -1,13 +1,13 @@
 ### Conversor-PDF
  
  
-- Conversor de páginas HTML para PDF.
+- Conversor de arquivos .CSV para páginas HTML e PDF.
  
 * JavaScript
 * NodeJS
 
  
-## Getting started
+## Vamos Começar
  
 * Para clonar repositório :
 >    $  git clone https://github.com/CallyCa/PDF-Creator.git
