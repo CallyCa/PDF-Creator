@@ -5,6 +5,8 @@
 - Como trata-se de um projeto apenas para aprendizado, este não está totalmente completo.
 - Este conversor irá gerar dois arquivos: .PDF e .HTML do arquivo em que foi convertido.
 
+## Tecnologias utilizadas
+
 * JavaScript
 * NodeJS
 
@@ -24,7 +26,7 @@
 
 * Rodar o Projeto :
 > <p> Após ter informado o caminho do Arquivo, agora é só executá-lo. <3</p>
->    $ npm ./app.js
+>    $ npm .\app.js
 > <p> Ou </p>
->    $ nodemon ./app.js
+>    $ nodemon .\app.js
 
