@@ -7,7 +7,7 @@
 
 ## Tecnologias utilizadas
 
-* JavaScript
+* Javascript
 * NodeJS
 
 
