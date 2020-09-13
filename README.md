@@ -24,8 +24,6 @@
 * Rodar o Projeto :
 > <p> Após ter informado o caminho do Arquivo, agora é só executá-lo. <3</p>
 >    $ npm ./app.js
- &nbsp;
 > <p> Ou </p>
-&nbsp;
 >    $ nodemon ./app.js
 
