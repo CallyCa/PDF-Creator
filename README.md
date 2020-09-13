@@ -19,11 +19,14 @@
 
 * Como usar ?
 >   Abra o arquivo "app.js" > Depois vá em "var dados = await leitor.Read("./arquivoCSV");"
+&nbsp;
 >   informe o caminho do arquivo em localizado em seu computador.
 
 * Rodar o Projeto :
 >  Após ter informado o caminho do Arquivo, agora é só executá-lo. <3
 >    $ npm ./app.js
+&nbsp;
 >   Ou
+&nbsp;
 >    $ nodemon ./app.js
 
