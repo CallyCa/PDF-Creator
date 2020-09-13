@@ -3,6 +3,7 @@
  
 - Conversor de arquivos .CSV para páginas HTML e PDF.
 - Como trata-se de um projeto apenas para aprendizado, este não está totalmente completo.
+- Este conversor irá gerar dois arquivos: .PDF e .HTML do arquivo em que foi convertido.
 
 * JavaScript
 * NodeJS
