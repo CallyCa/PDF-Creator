@@ -18,9 +18,9 @@
 >    $ npm install PDF-Creator
 
 * Como usar ?
->   Abra o arquivo "app.js" > Depois vá em "var dados = await leitor.Read("./arquivoCSV");"
+> <p> Abra o arquivo "app.js" > Depois vá em "var dados = await leitor.Read("./arquivoCSV");"</p>
 &nbsp;
->   informe o caminho do arquivo em localizado em seu computador.
+> <p> informe o caminho do arquivo em localizado em seu computador.</p>
 
 * Rodar o Projeto :
 >  Após ter informado o caminho do Arquivo, agora é só executá-lo. <3
