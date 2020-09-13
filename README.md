@@ -23,7 +23,7 @@
 
 * Rodar o Projeto :
 > <p> Após ter informado o caminho do Arquivo, agora é só executá-lo. <3</p>
->    $ npm ./app.js
-> <p> Ou> <p>
+>    $ npm ./app.js<br>
+> <p> Ou> </p>
 >    $ nodemon ./app.js
 
